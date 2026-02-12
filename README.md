@@ -90,13 +90,11 @@ Entropy is scaled into a professional 0–100 Security Score to provide intuitiv
 
 ## Project Structure
 
-password_toolkit/
-│
-├── password_toolkit.py        (Core CLI application)
-├── gui_app.py                 (Desktop GUI version)
-├── password_toolkit_backup.py (Backup version)
-├── security_report.txt        (Generated report log)
-└── README.md                  (Project documentation)
+password-security-toolkit/
+
+├── password_toolkit.py   (Core CLI application)
+├── gui_app.py            (Desktop GUI version)
+└── README.md             (Project documentation)
 
 ---
 
